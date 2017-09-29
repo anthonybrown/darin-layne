@@ -1,0 +1,99 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: Tony Brown
+Author URI: https://github.com/anthonybrown
+Template: Avada
+Version: 1.0.0
+
+Text Domain:  Avada
+*/
+
+.wolf_jplayer_widget {
+  margin: 40px 0 0;
+}
+.fusion-main-menu .fusion-menu-login-box, .fusion-main-menu .fusion-menu-cart {
+  display: none;
+}
+.entry-content .entry-title {
+  color: #ffffff;
+  font-size: 50px !important;
+  margin:0 0 20px;
+}
+
+.lessons-col-area h3 {
+  font-family: "Unica One",Arial,Helvetica,sans-serif;
+  font-size: 24px;
+  line-height: normal;
+  margin: 20px 0 10px;
+}
+.lessons-col-area p {
+  line-height: 23px;
+}
+.fusion-one-third:nth-child(3n+3) {
+  margin: 0;
+}
+.read-pdf {
+  background: #dd3333 url("images/pdf.png") no-repeat scroll 10px center;
+  border-radius: 7px;
+  font-family: "Unica One",Arial,Helvetica,sans-serif;
+  color: #000000;
+  margin:0 0 10px;
+  display: inline-block;
+  font-size: 35px;
+  padding: 10px 10px 10px 50px;
+  text-transform: uppercase;
+}
+.read-pdf:hover{
+  color: #fff;
+}
+.download-mp3{
+  background: #dd3333 url("images/download.png") no-repeat scroll 10px center;
+  border-radius: 7px;
+  color: #000000;
+  display: inline-block;
+  font-size: 35px;
+  font-family: "Unica One",Arial,Helvetica,sans-serif;
+  padding: 10px 10px 10px 50px;
+  text-transform: uppercase;
+  margin:0 0 10px;
+}
+.download-mp3:hover{
+  color: #fff;
+}
+.read-tiff{
+  background: #dd3333 url("images/tiff.png") no-repeat scroll 10px center;
+  border-radius: 7px;
+  color: #000000;
+  font-family: "Unica One",Arial,Helvetica,sans-serif;
+  display: inline-block;
+  font-size: 35px;
+  padding: 10px 10px 10px 50px;
+  text-transform: uppercase;
+  margin:0 0 10px;
+}
+.read-tiff:hover{
+  color: #fff;
+}
+.read-jpg{
+  background: #dd3333 url("images/jpg-img.png") no-repeat scroll 10px center;
+  border-radius: 7px;
+  color: #000000;
+  display: inline-block;
+  font-size: 35px;
+  font-family: "Unica One",Arial,Helvetica,sans-serif;
+  padding: 10px 10px 10px 50px;
+  text-transform: uppercase;
+  margin:0 0 10px;
+}
+.read-jpg:hover{
+  color: #fff;
+}
+.lessons-col-area {
+  margin: 0 0 30px;
+}
+.lesson-single-page h2 {
+  color: #ffffff;
+  font-size: 35px;
+  margin: 20px 0 0;
+}
